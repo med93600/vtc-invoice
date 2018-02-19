@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Facturix</string>
+    <string name="name_field">Nom de la personne</string>
+    <string name="address_field">Adresse</string>
+    <string name="mail_field">Email</string>
+    <string name="client_Information_Title"> Information client</string>
+    <string name="trip_information_title">Information sur la course</string>
+    <string name="trip_information_description">description de la course</string>
+    <string name="trip_vat">TVA</string>
+    <string name="trip_price">Prix TTC</string>
+    <string name="next">Suivant</string>
+    <string name="invoice_information_title">Information sur la facture</string>
+    <string name="invoice_number">Numéro de facture</string>
+    <string name="invoice_date">Date</string>
+    <string name="Send">Envoyer</string>
+
 </resources>
